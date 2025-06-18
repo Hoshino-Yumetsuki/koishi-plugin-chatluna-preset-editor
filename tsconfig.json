@@ -1,11 +1,8 @@
 {
   "compilerOptions": {
-    "rootDir": "src",
-    "outFile": "dist/index.d.ts",
     "target": "ES2022",
-    "module": "ESNext",
     "declaration": true,
-    "emitDeclarationOnly": true,
+    "emitDeclarationOnly": false,
     "composite": true,
     "incremental": true,
     "skipLibCheck": true,
@@ -16,6 +13,7 @@
     ]
   },
   "include": [
-    "src"
+    "src",
+    "client"
   ]
 }
