@@ -10,6 +10,10 @@
     "lib",
     "src"
   ],
+  "contributors": [
+    "q78kg <hoshino-yumetsuki@outlook.com>",
+    "shangxueink <1919892171@qq.com>"
+  ],
   "license": "MIT",
   "scripts": {
     "build": "tsc",
