@@ -1,5 +1,5 @@
 import { Context } from 'koishi'
-import {} from '@koishijs/plugin-console'
+import { } from '@koishijs/plugin-console'
 import { resolve } from 'path'
 
 export const name = 'chatluna-preset-editor'
