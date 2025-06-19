@@ -3,7 +3,7 @@
   "description": "A preset editor for Chatluna",
   "version": "1.0.1",
   "main": "lib/index.js",
-  "types": "src/index.d.ts",
+  "types": "lib/index.d.ts",
   "files": [
     "client",
     "dist",
