@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-chatluna-preset-editor",
   "description": "A preset editor for Chatluna",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -9,6 +9,10 @@
     "dist",
     "lib",
     "src"
+  ],
+  "contributors": [
+    "q78kg <hoshino-yumetsuki@outlook.com>",
+    "shangxueink <1919892171@qq.com>"
   ],
   "license": "MIT",
   "scripts": {
